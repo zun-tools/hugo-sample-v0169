@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+locale = 'ja'
+title = 'ずんだ技研ブログ'
+theme = 'ananke'
